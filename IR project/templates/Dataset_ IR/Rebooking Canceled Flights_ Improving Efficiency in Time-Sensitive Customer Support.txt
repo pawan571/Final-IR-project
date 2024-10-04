@@ -1,0 +1,4 @@
+﻿"@FlightService My flight got canceled, and I need to rebook. I tried doing it online, but it didn’t work. Can you assist me with the rebooking? Should I send my booking details via DM? Thanks! I’ve been trying to get through to customer service on the phone, but the wait times are really long."
+User contacts @FlightService about a canceled flight, explaining that they were unable to rebook online. They mention difficulties reaching customer service via phone due to long wait times and ask if rebooking can be handled through DM by providing booking details.
+"I need to reschedule as soon as possible since I’m traveling for an important event. Is there any way to expedite the process? I’d really appreciate any help you can offer. Thanks again!"
+The user highlights the urgency of their situation, noting that they are traveling for an important event and need a quick resolution. They request assistance in expediting the rebooking process.

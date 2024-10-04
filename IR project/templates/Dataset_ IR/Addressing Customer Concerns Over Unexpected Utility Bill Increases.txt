@@ -1,0 +1,10 @@
+﻿"@EnergyCo The latest bill seems way higher than usual! Can you explain why the charges have increased?"
+User expresses concern about a higher-than-expected bill and asks @EnergyCo for an explanation.
+
+
+"@GymSupport How do I cancel my membership online? I couldn’t find the option in my account settings."
+User requests guidance from @GymSupport on how to cancel their membership via the website.
+
+
+"@45678 I appreciate the prompt response to my inquiry! Your customer service is always top-notch."
+User thanks @45678 for providing a quick response and compliments their customer service.
