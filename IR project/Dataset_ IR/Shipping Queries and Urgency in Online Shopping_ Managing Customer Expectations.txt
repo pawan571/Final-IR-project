@@ -1,8 +1,0 @@
-﻿"@TechSupport My internet connection keeps dropping randomly throughout the day. Can you help me fix this?"
-User reports an issue with their internet connection being unstable and requests assistance from @TechSupport.
-"@BankSupport Can you confirm when my pending transaction will be completed? It’s been a few days now."
-User asks @BankSupport for clarification on the status of a pending transaction that hasn't been processed yet.
-
-
-"@OnlineStore Do you offer express shipping on international orders, or only standard shipping?"
-User inquires with @OnlineStore about the availability of express shipping options for international purchases.

@@ -1,4 +1,0 @@
-﻿"@TravelAgency My trip was canceled due to unforeseen circumstances. Can I get a refund or should I reschedule for another date? Here’s my booking reference: [link]. I’d prefer a refund if possible since I’m not sure when I’ll be able to travel again."
-User contacts @TravelAgency about a canceled trip, asking whether they are eligible for a refund or need to reschedule. They mention a preference for a refund due to uncertainty about future travel plans and provide their booking reference for assistance.
-"If a refund isn’t possible, can I at least get credit for a future trip? I’m hoping there’s some flexibility with the cancellation policy. Let me know what my options are!"
-The user inquires about alternative options, such as travel credits, if a refund isn’t possible. They ask for clarification on the cancellation policy and available solutions.
